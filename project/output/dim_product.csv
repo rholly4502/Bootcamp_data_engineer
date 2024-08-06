@@ -1,0 +1,89 @@
+product_sk,Product_ID,Product_Category,Product_Group,Product,Product_Description,Current_Retail_Price,Unit_Of_Measure_Grams,Promo_YN,New_Product_YN,Tax_Exempt_YN,Product_Type,Current_Wholesale_Price,ingest_time
+1,1,Coffee beans,Whole Bean/Teas,Brazilian - Organic,It's like Carnival in a cup. Clean and smooth.,1800.0,340.19399999999996,no,no,yes,Organic Beans,144,2024-07-22T14:11:09.7080981Z
+2,2,Coffee beans,Whole Bean/Teas,Our Old Time Diner Blend,Out packed blend of beans that is reminiscent of the cup of coffee you used to get at a diner.,1800.0,340.19399999999996,no,no,yes,House blend Beans,144,2024-07-22T14:11:09.7080981Z
+3,3,Coffee beans,Whole Bean/Teas,Espresso Roast,Our house blend for a good espresso shot.,1475.0,453.592,no,no,yes,Espresso Beans,118,2024-07-22T14:11:09.7080981Z
+4,4,Coffee beans,Whole Bean/Teas,Primo Espresso Roast,Our primium single source of hand roasted beans.,2045.0,453.592,no,no,yes,Espresso Beans,1636,2024-07-22T14:11:09.7080981Z
+5,5,Coffee beans,Whole Bean/Teas,Columbian Medium Roast,A smooth cup of coffee any time of day.,1500.0,453.592,no,no,yes,Gourmet Beans,12,2024-07-22T14:11:09.7080981Z
+6,6,Coffee beans,Whole Bean/Teas,Ethiopia,From the home of coffee.,2100.0,453.592,no,no,yes,Gourmet Beans,168,2024-07-22T14:11:09.7080981Z
+7,7,Coffee beans,Whole Bean/Teas,Jamacian Coffee River,"Ya man, it will start your day off right.",1975.0,453.592,no,no,yes,Premium Beans,158,2024-07-22T14:11:09.7080981Z
+8,8,Coffee beans,Whole Bean/Teas,Civet Cat,"The most expensive coffee in the world, the cats do all the work.",4500.0,226.796,no,no,yes,Premium Beans,36,2024-07-22T14:11:09.7080981Z
+9,9,Coffee beans,Whole Bean/Teas,Organic Decaf Blend,Our blend of hand picked organic beans that have been naturally decaffinated.,2250.0,453.592,no,no,yes,Organic Beans,18,2024-07-22T14:11:09.7080981Z
+10,10,Coffee beans,Whole Bean/Teas,Guatemalan Sustainably Grown,Green beans you can roast yourself.,1000.0,453.592,no,no,yes,Green beans,8,2024-07-22T14:11:09.7080981Z
+11,11,Loose Tea,Whole Bean/Teas,Lemon Grass,You will think you are Thailand as you sip your cuppa.,895.0,25.51455,no,no,yes,Herbal tea,716,2024-07-22T14:11:09.7080981Z
+12,12,Loose Tea,Whole Bean/Teas,Peppermint,Cool and refreshing to help calm your nerves.,895.0,25.51455,no,no,yes,Herbal tea,716,2024-07-22T14:11:09.7080981Z
+13,13,Loose Tea,Whole Bean/Teas,English Breakfast,The traditional cup to start your day.,895.0,25.51455,no,no,yes,Black tea,716,2024-07-22T14:11:09.7080981Z
+14,14,Loose Tea,Whole Bean/Teas,Earl Grey,A full leaf of Orange Pekoe blended with organic oil of bergamot.,895.0,25.51455,no,no,yes,Black tea,716,2024-07-22T14:11:09.7080981Z
+15,15,Loose Tea,Whole Bean/Teas,Serenity Green Tea,Mountain grown and harvested at the optimal time.,925.0,28.3495,no,no,yes,Green tea,74,2024-07-22T14:11:09.7080981Z
+16,16,Loose Tea,Whole Bean/Teas,Traditional Blend Chai,A traditional blend.,895.0,25.51455,no,no,yes,Chai tea,716,2024-07-22T14:11:09.7080981Z
+17,17,Loose Tea,Whole Bean/Teas,Morning Sunrise Chai,Fair trade and organic and has a warm finish.,950.0,25.51455,no,no,yes,Chai tea,76,2024-07-22T14:11:09.7080981Z
+18,18,Loose Tea,Whole Bean/Teas,Spicy Eye Opener Chai,A spicier blend to awaken your taste buds.,1095.0,25.51455,no,no,yes,Chai tea,876,2024-07-22T14:11:09.7080981Z
+19,19,Packaged Chocolate,Whole Bean/Teas,Dark chocolate,This drinking chocolate is smooth and creamy.,640.0,453.592,no,no,yes,Drinking Chocolate,512,2024-07-22T14:11:09.7080981Z
+20,20,Packaged Chocolate,Whole Bean/Teas,Sustainably Grown Organic,Certified organic containing the highest quality ingredients.,760.0,453.592,no,no,yes,Organic Chocolate,608,2024-07-22T14:11:09.7080981Z
+21,21,Packaged Chocolate,Whole Bean/Teas,Chili Mayan,"Fragrant with spices, this is the most flavourful drinking chocolate you will find.",1333.0,453.592,no,no,yes,Drinking Chocolate,1066,2024-07-22T14:11:09.7080981Z
+22,22,Coffee,Beverages,Our Old Time Diner Blend Sm,An honest cup a coffee.,200.0,226.796,no,no,yes,Drip coffee,4,2024-07-22T14:11:09.7080981Z
+23,23,Coffee,Beverages,Our Old Time Diner Blend Rg,An honest cup a coffee.,250.0,453.592,no,no,yes,Drip coffee,5,2024-07-22T14:11:09.7080981Z
+24,24,Coffee,Beverages,Our Old Time Diner Blend Lg,An honest cup a coffee.,300.0,680.3879999999999,no,no,yes,Drip coffee,6,2024-07-22T14:11:09.7080981Z
+25,25,Coffee,Beverages,Brazilian Sm,It's like Carnival in a cup. Clean and smooth.,220.0,226.796,no,no,yes,Organic brewed coffee,44,2024-07-22T14:11:09.7080981Z
+26,26,Coffee,Beverages,Brazilian Rg,It's like Carnival in a cup. Clean and smooth.,300.0,453.592,no,no,yes,Organic brewed coffee,6,2024-07-22T14:11:09.7080981Z
+27,27,Coffee,Beverages,Brazilian Lg,It's like Carnival in a cup. Clean and smooth.,350.0,680.3879999999999,no,no,yes,Organic brewed coffee,7,2024-07-22T14:11:09.7080981Z
+28,28,Coffee,Beverages,Columbian Medium Roast Sm,A smooth cup of coffee any time of day.,200.0,226.796,no,no,yes,Gourmet brewed coffee,4,2024-07-22T14:11:09.7080981Z
+29,29,Coffee,Beverages,Columbian Medium Roast Rg,A smooth cup of coffee any time of day.,250.0,453.592,no,no,yes,Gourmet brewed coffee,5,2024-07-22T14:11:09.7080981Z
+30,30,Coffee,Beverages,Columbian Medium Roast Lg,A smooth cup of coffee any time of day.,300.0,680.3879999999999,no,no,yes,Gourmet brewed coffee,6,2024-07-22T14:11:09.7080981Z
+31,31,Coffee,Beverages,Ethiopia Sm,A bold cup when you want that something extra.,220.0,226.796,no,no,yes,Gourmet brewed coffee,44,2024-07-22T14:11:09.7080981Z
+32,32,Coffee,Beverages,Ethiopia Rg,A bold cup when you want that something extra.,300.0,453.592,no,no,yes,Gourmet brewed coffee,6,2024-07-22T14:11:09.7080981Z
+33,33,Coffee,Beverages,Ethiopia Lg,A bold cup when you want that something extra.,350.0,680.3879999999999,no,no,yes,Gourmet brewed coffee,7,2024-07-22T14:11:09.7080981Z
+34,34,Coffee,Beverages,Jamaican Coffee River Sm,Still a front runner for good premium coffee.,245.0,226.796,no,no,yes,Premium brewed coffee,49,2024-07-22T14:11:09.7080981Z
+35,35,Coffee,Beverages,Jamaican Coffee River Rg,Still a front runner for good premium coffee.,310.0,453.592,no,no,yes,Premium brewed coffee,62,2024-07-22T14:11:09.7080981Z
+36,36,Coffee,Beverages,Jamaican Coffee River Lg,Still a front runner for good premium coffee.,375.0,680.3879999999999,no,no,yes,Premium brewed coffee,75,2024-07-22T14:11:09.7080981Z
+37,37,Coffee,Beverages,Espresso shot,You will think you are in Venice when you sip this one.,300.0,42.524249999999995,no,no,yes,Barista Espresso,6,2024-07-22T14:11:09.7080981Z
+38,38,Coffee,Beverages,Latte,You will think you are in Venice when you sip this one.,375.0,42.524249999999995,no,no,yes,Barista Espresso,75,2024-07-22T14:11:09.7080981Z
+39,39,Coffee,Beverages,Latte Rg,You will think you are in Venice when you sip this one.,425.0,85.04849999999999,no,no,yes,Barista Espresso,85,2024-07-22T14:11:09.7080981Z
+40,40,Coffee,Beverages,Cappuccino,You will think you are in Venice when you sip this one.,375.0,42.524249999999995,no,no,yes,Barista Espresso,75,2024-07-22T14:11:09.7080981Z
+41,41,Coffee,Beverages,Cappuccino Lg,You will think you are in Venice when you sip this one.,425.0,85.04849999999999,no,no,yes,Barista Espresso,85,2024-07-22T14:11:09.7080981Z
+42,42,Tea,Beverages,Lemon Grass Rg,You will think you are in Thailand.,250.0,453.592,no,no,yes,Brewed herbal tea,63,2024-07-22T14:11:09.7080981Z
+43,43,Tea,Beverages,Lemon Grass Lg,You will think you are in Thailand.,300.0,680.3879999999999,no,no,yes,Brewed herbal tea,75,2024-07-22T14:11:09.7080981Z
+44,44,Tea,Beverages,Peppermint Rg,A cool and refreshing cup.,250.0,453.592,no,no,yes,Brewed herbal tea,63,2024-07-22T14:11:09.7080981Z
+45,45,Tea,Beverages,Peppermint Lg,A cool and refreshing cup.,300.0,680.3879999999999,no,no,yes,Brewed herbal tea,75,2024-07-22T14:11:09.7080981Z
+46,46,Tea,Beverages,Serenity Green Tea Rg,Feel the stress leaving your body.,250.0,453.592,no,no,yes,Brewed Green tea,63,2024-07-22T14:11:09.7080981Z
+47,47,Tea,Beverages,Serenity Green Tea Lg,Feel the stress leaving your body.,300.0,680.3879999999999,no,no,yes,Brewed Green tea,75,2024-07-22T14:11:09.7080981Z
+48,48,Tea,Beverages,English Breakfast Rg,The Queen's favourite cuppa in the morning.,250.0,453.592,no,no,yes,Brewed Black tea,63,2024-07-22T14:11:09.7080981Z
+49,49,Tea,Beverages,English Breakfast Lg,The Queen's favourite cuppa in the morning.,300.0,680.3879999999999,no,no,yes,Brewed Black tea,75,2024-07-22T14:11:09.7080981Z
+50,50,Tea,Beverages,Earl Grey Rg,Tradition in a cup.,250.0,453.592,no,no,yes,Brewed Black tea,63,2024-07-22T14:11:09.7080981Z
+51,51,Tea,Beverages,Earl Grey Lg,Tradition in a cup.,300.0,680.3879999999999,no,no,yes,Brewed Black tea,75,2024-07-22T14:11:09.7080981Z
+52,52,Tea,Beverages,Traditional Blend Chai Rg,Sit back and think of the tropical breezes.,250.0,453.592,no,no,yes,Brewed Chai tea,63,2024-07-22T14:11:09.7080981Z
+53,53,Tea,Beverages,Traditional Blend Chai Lg,Sit back and think of the tropical breezes.,300.0,680.3879999999999,no,no,yes,Brewed Chai tea,75,2024-07-22T14:11:09.7080981Z
+54,54,Tea,Beverages,Morning Sunrise Chai Rg,Face the morning after your yoga routine.,250.0,453.592,no,no,yes,Brewed Chai tea,63,2024-07-22T14:11:09.7080981Z
+55,55,Tea,Beverages,Morning Sunrise Chai Lg,Face the morning after your yoga routine.,400.0,680.3879999999999,no,no,yes,Brewed Chai tea,1,2024-07-22T14:11:09.7080981Z
+56,56,Tea,Beverages,Spicy Eye Opener Chai Rg,When you need your eyes opened wide.,255.0,453.592,no,no,yes,Brewed Chai tea,64,2024-07-22T14:11:09.7080981Z
+57,57,Tea,Beverages,Spicy Eye Opener Chai Lg,When you need your eyes opened wide.,310.0,680.3879999999999,no,no,yes,Brewed Chai tea,78,2024-07-22T14:11:09.7080981Z
+58,58,Drinking Chocolate,Beverages,Dark chocolate Rg,"Slightly bitter, but still very rich.",350.0,340.19399999999996,no,no,yes,Hot chocolate,263,2024-07-22T14:11:09.7080981Z
+59,59,Drinking Chocolate,Beverages,Dark chocolate Lg,"Slightly bitter, but still very rich.",450.0,453.592,no,no,yes,Hot chocolate,338,2024-07-22T14:11:09.7080981Z
+60,60,Drinking Chocolate,Beverages,Sustainably Grown Organic Rg,Just pure notes of spice.,375.0,340.19399999999996,no,no,yes,Hot chocolate,281,2024-07-22T14:11:09.7080981Z
+61,61,Drinking Chocolate,Beverages,Sustainably Grown Organic Lg,Just pure notes of spice.,475.0,453.592,no,no,yes,Hot chocolate,356,2024-07-22T14:11:09.7080981Z
+62,62,Drinking Chocolate,Beverages,Snow Day Hot Chocolate,Added marshmallows for the needed sugar rush.,300.0,226.796,no,no,yes,Hot chocolate,225,2024-07-22T14:11:09.7080981Z
+63,63,Flavours,Add-ons,Carmel syrup,Rich carmel taste,80.0,,no,no,yes,Regular syrup,4,2024-07-22T14:11:09.7080981Z
+64,64,Flavours,Add-ons,Hazelnut syrup,Bursting with nutty flavour,80.0,,no,no,yes,Regular syrup,4,2024-07-22T14:11:09.7080981Z
+65,65,Flavours,Add-ons,Sugar Free Vanilla syrup,Our favorite,80.0,,no,no,yes,Sugar free syrup,4,2024-07-22T14:11:09.7080981Z
+66,66,Coffee,Beverages,Pumpkin Spice Latte,"Boo, its that time of year again",495.0,42.524249999999995,no,no,yes,Seasonal drink,99,2024-07-22T14:11:09.7080981Z
+67,67,Coffee,Beverages,Pumpkin Spice Latte Lg,"Boo, its that time of year again",595.0,85.04849999999999,yes,no,yes,Seasonal drink,119,2024-07-22T14:11:09.7080981Z
+68,68,Drinking Chocolate,Beverages,Happy Holidays hot chocolate,"Candy cane and hot chocolate, perfect.",375.0,226.796,yes,yes,yes,Seasonal drink,281,2024-07-22T14:11:09.7080981Z
+69,69,Bakery,Food,Hazelnut Biscotti,Crunch!,350.0,,no,no,no,Biscotti,228,2024-07-22T14:11:09.7080981Z
+70,70,Bakery,Food,Cranberry Scone,Like Grandma used to make,325.0,,no,no,no,Scone,211,2024-07-22T14:11:09.7080981Z
+71,71,Bakery,Food,Chocolate Croissant,Chocolate flakes,375.0,,no,no,no,Pastry,244,2024-07-22T14:11:09.7080981Z
+72,72,Bakery,Food,Ginger Scone,Little bit of spice,325.0,,no,no,no,Scone,211,2024-07-22T14:11:09.7080981Z
+73,73,Bakery,Food,Almond Croissant,Crunch!,375.0,,no,no,no,Pastry,244,2024-07-22T14:11:09.7080981Z
+74,74,Bakery,Food,Ginger Biscotti,Crunch!,350.0,,no,no,no,Biscotti,228,2024-07-22T14:11:09.7080981Z
+75,75,Bakery,Food,Croissant,Flakey and buttery,325.0,,no,no,no,Pastry,211,2024-07-22T14:11:09.7080981Z
+76,76,Bakery,Food,Chocolate Chip Biscotti,Crunch!,350.0,,no,no,no,Biscotti,228,2024-07-22T14:11:09.7080981Z
+77,77,Bakery,Food,Oatmeal Scone,Grannys fav,300.0,,no,no,no,Scone,195,2024-07-22T14:11:09.7080981Z
+78,78,Bakery,Food,Scottish Cream Scone,Old time comfort,450.0,,no,no,no,Scone,293,2024-07-22T14:11:09.7080981Z
+79,79,Bakery,Food,Jumbo Savory Scone,"Anytime, anywhere",375.0,,no,no,no,Scone,244,2024-07-22T14:11:09.7080981Z
+80,80,Branded,Merchandise,I Need My Bean! Toque,keep your head bean warm,2300.0,,no,no,no,Clothing,736,2024-07-22T14:11:09.7080981Z
+81,81,Branded,Merchandise,I Need My Bean! T-shirt,Stylish chic,2800.0,,no,no,no,Clothing,896,2024-07-22T14:11:09.7080981Z
+82,82,Branded,Merchandise,I Need My Bean! Diner mug,Classic,1200.0,,no,no,no,Housewares,384,2024-07-22T14:11:09.7080981Z
+83,83,Branded,Merchandise,I Need My Bean! Latte cup,The cup and saucer set is the perfect way to enjoy your latte at home,1400.0,,no,no,no,Housewares,448,2024-07-22T14:11:09.7080981Z
+84,84,Flavours,Add-ons,Chocolate syrup,Bursting with chocolate flavour,80.0,,no,no,yes,Regular syrup,4,2024-07-22T14:11:09.7080981Z
+85,85,Coffee,Beverages,Rio Nights,2 shots of Ouro Brasilerio and pure cane sugar syrup,600.0,170.09699999999998,no,yes,yes,Specialty coffee,12,2024-07-22T14:11:09.7080981Z
+86,87,Coffee,Beverages,Ouro Brasileiro shot,From Rio,300.0,42.524249999999995,no,no,yes,Barista Espresso,6,2024-07-22T14:11:09.7080981Z
+87,88,Coffee,Beverages,Ouro Brasileiro shot promo,Ouro promo,210.0,453.592,yes,no,yes,Barista Espresso,42,2024-07-22T14:11:09.7080981Z
+88,89,Bakery,Food,Ginger Scone promo,Little bit of spice,265.0,,yes,no,no,Scone,172,2024-07-22T14:11:09.7080981Z

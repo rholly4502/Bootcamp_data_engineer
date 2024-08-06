@@ -1,0 +1,10 @@
+sales_outlet_sk,sales_outlet_id,sales_outlet_type,store_address,store_city,store_state_province,manager,beans_goal,beverage_goal,food_goal,merchandise_goal,total_goal,ingest_time
+1,2,warehouse,164-14 Jamaica Ave,Jamaica,NY,,,,,,,2024-07-22T14:11:09.7108397Z
+2,3,retail,32-20 Broadway,Long Island City,NY,6,720,13500,3420,360,18000,2024-07-22T14:11:09.7108397Z
+3,4,retail,604 Union Street,Brooklyn,NY,11,720,13500,3420,360,18000,2024-07-22T14:11:09.7108397Z
+4,5,retail,100 Church Street,New York,NY,16,1000,18750,4750,500,25000,2024-07-22T14:11:09.7108397Z
+5,6,retail,122 E Broadway,New York,NY,21,720,13500,3420,360,18000,2024-07-22T14:11:09.7108397Z
+6,7,retail,224 E 57th Street,New York,NY,26,720,13500,3420,360,18000,2024-07-22T14:11:09.7108397Z
+7,8,retail,687 9th Avenue,New York,NY,31,900,16875,4275,450,22500,2024-07-22T14:11:09.7108397Z
+8,9,retail,175 8th Avenue,New York,NY,36,720,13500,3420,360,18000,2024-07-22T14:11:09.7108397Z
+9,10,retail,183 W 10th Street,New York,NY,41,720,13500,3420,360,18000,2024-07-22T14:11:09.7108397Z
